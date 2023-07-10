@@ -28,7 +28,7 @@ Check out my GitHub repositories for more projects and code samples!
 
 ## Connect with Me
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hasna-akbar-ali-1485981b0/)
+- LinkedIn: [Hasna Akbar Ali ](https://www.linkedin.com/in/hasna-akbar-ali-1485981b0/)
 - Email: akbarali.hasna@gmail.com
 
 Feel free to reach out if you have any questions, suggestions, or collaboration opportunities. Let's connect and build something amazing together!
