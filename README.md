@@ -3,8 +3,8 @@
 I'm @hasna-akbarali, a Flutter developer exploring the fascinating world of Data Science. Welcome to my GitHub profile!
 
 ## About Me
-
-- 📱 Flutter developer with 1.8 years of experience building cross-platform mobile applications.
+- 
+- 📱 Flutter developer with 1 year of experience building cross-platform mobile applications.
 - 🌱 Currently diving into Data Science and Machine Learning.
 - 🎓 Studying Data Science | Machine Learning | AI to expand my knowledge and skills in this field.
 - 💼 Open to exciting Data Science projects for collaborations.
@@ -13,7 +13,7 @@ I'm @hasna-akbarali, a Flutter developer exploring the fascinating world of Data
 ## Skills
 
 - 📱 Flutter | Dart | Mobile App Development
-- 📊 Data Science | Machine Learning
+- 📊 Data Science | Machine Learning | Deep Learning
 - 🐍 Python | SQL
 - 🧮 Data Analysis | Data Visualization | Statistical Modeling | Tableau
 - 💻 Git | GitHub
