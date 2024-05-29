@@ -4,7 +4,7 @@ I'm @hasna-akbarali, a Flutter developer exploring the fascinating world of Data
 
 ## About Me
 - 📊 6 months of work experience as a Data Analyst at NAVIO Enterprise Solutions.
-- 📱 Flutter developer with 2 year of experience building cross-platform mobile applications.
+- 📱 Flutter developer with 2 years of experience building cross-platform mobile applications.
 - 🌱 Currently diving into Data Science and Machine Learning.
 - 🎓 Studying Data Science | Machine Learning | AI to expand my knowledge and skills in this field.
 - 💼 Open to exciting Data Science projects for collaborations.
