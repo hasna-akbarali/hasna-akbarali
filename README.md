@@ -20,7 +20,9 @@ Welcome to my GitHub profile! I'm @hasna-akbarali, a Data Scientist with a passi
 
 ## Projects
 
-- 🔬 Movie Recommender System: A Content-based movie recommendation system. Developed using NLP, Streamlit.
+- 🔬 Movie Recommender System: Performed time series analysis of Walmart stock prices using Python, with data preparation, decomposition, stationarity testing, and development of forecasting models.
+- 📊 Revenue Navigator: Provided actionable insights and analytics to the revenue team within the hospitality domain using Power BI.
+- 🗃 Database Analysis and Management for Data Science Job Market: Created and managed a database to analyze salary trends in data science, identifying high-paying remote positions and top countries for salaries. 
 - 📊 Pomodoro Timer: A productivity tool for time management based on the Pomodoro Technique. Built with Tkinter.
 - 🤖 Habit Tracker: A habit tracking app to help you build and maintain good habits. Implemented using Flutter, Dart, Firebase.
 
