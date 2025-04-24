@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm @hasna-akbarali, a Data Scientist with a passion for turning data into actionable insights. With a solid background in Python, machine learning, and data analysis, I have developed robust solutions for web scraping, data transformation, time series analysis, and more. I have honed my skills in database management, mobile app development, and statistical analysis. Explore my repositories to see my work in predictive modeling, data visualization, and beyond.
 
 ## About Me
-- 📊 6 months of work experience as a AI Engineer at NAVIO Enterprise Solutions.
 - 📱 Flutter developer with 2 years of experience building cross-platform mobile applications.
 - 🌱 Currently diving into Data Science and Machine Learning.
 - 🎓 Studying Data Science | Machine Learning | AI to expand my knowledge and skills in this field.
