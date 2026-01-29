@@ -1,35 +1,99 @@
-# Hi there! 👋
+# Hi there! 👋  
 
-Welcome to my GitHub profile! I'm @hasna-akbarali, a Data Scientist with a passion for turning data into actionable insights. With a solid background in Python, machine learning, and data analysis, I have developed robust solutions for web scraping, data transformation, time series analysis, and more. I have honed my skills in database management, mobile app development, and statistical analysis. Explore my repositories to see my work in predictive modeling, data visualization, and beyond.
+Welcome to my GitHub profile! I'm **Hasna Akbar Ali**, an **AI/ML Engineer** specializing in building **production-ready AI systems** using **LLMs, RAG architectures, FastAPI, and scalable data pipelines**.  
 
-## About Me
-- 📱 Flutter developer with 2 years of experience building cross-platform mobile applications.
-- 🌱 Currently diving into Data Science and Machine Learning.
-- 🎓 Studying Data Science | Machine Learning | AI to expand my knowledge and skills in this field.
-- 💼 Open to exciting Data Science projects for collaborations.
-- ✨ Passionate about leveraging data-driven insights to solve real-world problems.
+I enjoy turning complex, real-world problems into intelligent, deployable solutions — from **document intelligence** and **AI agents** to **data-driven automation platforms**.
 
-## Skills
+---
 
-- 📱 Flutter | Dart | Mobile App Development
-- 📊 Data Science | Machine Learning | Deep Learning | NLP
-- 🐍 Python | SQL
-- 🧮 Data Analysis | Data Visualization | Statistical Modeling | Tableau
-- 💻 Git | GitHub
+## 🚀 About Me  
 
-## Projects
+- 🤖 AI/ML Engineer with hands-on experience in **LLMs, RAG systems, and AI automation**
+- 🧠 Strong background in **Machine Learning, NLP, Deep Learning, and Time Series Forecasting**
+- ⚙️ Experienced in building **FastAPI backends**, async pipelines, and NoSQL architectures
+- 🌍 Worked on **real-world datasets** including large-scale scraping, document processing, and customer data
+- 🇦🇪 Actively exploring **AI Engineer opportunities in Dubai**
+- 💼 Open to AI/ML collaborations, research-driven projects, and impactful product development
 
-- 🔬 Movie Recommender System: Performed time series analysis of Walmart stock prices using Python, with data preparation, decomposition, stationarity testing, and development of forecasting models.
-- 📊 Revenue Navigator: Provided actionable insights and analytics to the revenue team within the hospitality domain using Power BI.
-- 🗃 Database Analysis and Management for Data Science Job Market: Created and managed a database to analyze salary trends in data science, identifying high-paying remote positions and top countries for salaries. 
-- 📊 Pomodoro Timer: A productivity tool for time management based on the Pomodoro Technique. Built with Tkinter.
-- 🤖 Habit Tracker: A habit tracking app to help you build and maintain good habits. Implemented using Flutter, Dart, Firebase.
+---
 
-Check out my GitHub repositories for more projects and code samples!
+## 🛠️ Technical Skills  
 
-## Connect with Me
+### Programming & Frameworks  
+- **Python** (NumPy, Pandas, Scikit-learn, TensorFlow)
+- **FastAPI**, REST APIs, Async Processing
+- **Dart**, Flutter (Mobile Development)
 
-- LinkedIn: [Hasna Akbar Ali ](https://www.linkedin.com/in/hasna-akbar-ali-1485981b0/)
-- Email: akbarali.hasna@gmail.com
+### Machine Learning & AI  
+- Supervised & Unsupervised Learning  
+- Feature Engineering & Model Evaluation  
+- Deep Learning (CNNs, LSTM)  
+- **Time Series**: ARIMA, SARIMAX, Prophet, LSTM  
 
-Feel free to reach out if you have any questions, suggestions, or collaboration opportunities. Let's connect and build something amazing together!
+### Generative AI & NLP  
+- **RAG (Retrieval-Augmented Generation)**
+- LLM Orchestration (GPT-4, Gemini, Groq / Llama 3)
+- Prompt Engineering & Optimization  
+- Text Classification, Summarization, Semantic Search  
+
+### Databases & Vector Stores  
+- **MongoDB**, SQL Server  
+- **Milvus Vector Database**
+
+### Tools & Platforms  
+- Git, GitHub, Docker, CI/CD  
+- Web Scraping: **Selenium, Playwright**
+- Firebase, GraphQL  
+
+---
+
+## 📂 Featured Projects  
+
+### 📄 Intelligent Document Processing (IDP) System  
+- Built an AI-powered document processor using **Python & FastAPI**
+- Automated structured data extraction from PDFs using **LLMs and Vision models**
+- Designed a **RAG-ready pipeline** with async job tracking and NoSQL outputs  
+
+### 🧑‍💼 HR Resource Query Chatbot  
+- Developed an intelligent HR assistant using **FastAPI and local LLMs (Ollama)**
+- Enabled semantic search over employee skills using **SentenceTransformers**
+- Built a carousel-style frontend to display ranked candidate results  
+
+### 📈 Walmart Stock Price Prediction  
+- Performed time series analysis using **ARIMA, SARIMAX, Prophet, and LSTM**
+- Achieved superior performance with LSTM  
+  - **MAE:** 1.60  
+  - **RMSE:** 1.89  
+
+### 😊 Emotion Detection using CNN (FER-2013)  
+- Addressed class imbalance via augmentation and class weighting  
+- Implemented **VGG16 and ResNet50v2**
+- Achieved **66% overall accuracy** across 7 emotion classes  
+
+### 🤖 LLM-Powered Customer Support Automation  
+- Built an AI agent that automated **~80% of customer queries**
+- Integrated decision logic, ticket routing, and backend workflows  
+
+---
+
+## 🎓 Education  
+
+**B.E. in Computer Science**  
+P.A. College of Engineering, Mangalore  
+**CGPA:** 8.55 / 10  
+
+---
+
+## 📜 Certifications  
+
+- IBM Certified Data Science & AI (2024)
+
+---
+
+## 🤝 Connect With Me  
+
+- 🔗 LinkedIn: [Hasna Akbar Ali](https://www.linkedin.com/in/hasna-akbar-ali-1485981b0/)
+- 📧 Email: akbarali.hasna@gmail.com  
+
+Feel free to explore my repositories or reach out —  
+I’m always excited to collaborate and build intelligent systems 🚀
