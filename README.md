@@ -12,7 +12,6 @@ I enjoy turning complex, real-world problems into intelligent, deployable soluti
 - 🧠 Strong background in **Machine Learning, NLP, Deep Learning, and Time Series Forecasting**
 - ⚙️ Experienced in building **FastAPI backends**, async pipelines, and NoSQL architectures
 - 🌍 Worked on **real-world datasets** including large-scale scraping, document processing, and customer data
-- 🇦🇪 Actively exploring **AI Engineer opportunities in Dubai**
 - 💼 Open to AI/ML collaborations, research-driven projects, and impactful product development
 
 ---
